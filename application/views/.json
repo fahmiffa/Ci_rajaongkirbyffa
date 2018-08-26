@@ -1,0 +1,1 @@
+[{"code":"jne","name":"Jalur Nugraha Ekakurir (JNE)","costs":[{"service":"OKE","description":"Ongkos Kirim Ekonomis","cost":[{"value":10000,"etd":"2-3","note":""}]},{"service":"REG","description":"Layanan Reguler","cost":[{"value":11000,"etd":"1-2","note":""}]},{"service":"YES","description":"Yakin Esok Sampai","cost":[{"value":25000,"etd":"1-1","note":""}]}]}]
